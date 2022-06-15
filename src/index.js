@@ -1,1 +1,3 @@
-console.log("Hi mom");
+import homepage from "./homepage";
+
+homepage();
